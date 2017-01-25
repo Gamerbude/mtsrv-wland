@@ -1,0 +1,68 @@
+breath = 11
+hp = 20
+name = Talas
+pitch = -2.09
+position = (-9122.85,-125,-3847.88)
+version = 1
+yaw = 28.0749
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:sword_wood 1 8736
+Item default:dry_dirt
+Item default:stick 4
+Item default:old_apple 2
+Item bucket:bucket_empty
+Item creatures:egg
+Empty
+Empty
+Empty
+Empty
+Item default:wood 2
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Item default:stick 3
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List hunger 1
+Width 0
+Item : 13
+EndInventoryList
+EndInventory

@@ -1,0 +1,84 @@
+breath = 11
+yaw = -327
+pitch = 17.5
+version = 1
+name = DerSachse
+hp = 20
+position = (-1750.34,-55,-1511.06)
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:sword_diamond 1 41337
+Item default:pick_bronze 1 52962
+Item default:axe_bronze 1 62457
+Item default:torch 25
+Empty
+Item default:cobble 60
+Item default:cobble 43
+Item default:cobble 60
+Item default:iron_lump 8
+Item default:cobble 60
+Item default:coal_lump 23
+Item default:cobble 60
+Item default:cobble 60
+Item default:cobble 60
+Item default:cobble 60
+Item default:cobble 60
+Item default:cobble 60
+Item default:cobble 60
+Item default:cobble 60
+Item default:cobble 25
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Item default:bronze_ingot 3
+Item default:bronze_ingot 2
+Item default:bronze_ingot 3
+Empty
+Item default:stick 3
+Empty
+Empty
+Item default:stick 4
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Item default:pick_bronze
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List hunger 1
+Width 0
+Item : 18
+EndInventoryList
+List armor_head 1
+Width 0
+Item armor:steel_head 1 30744
+EndInventoryList
+List armor_chest 1
+Width 0
+Item armor:steel_chest 1 30744
+EndInventoryList
+List armor_legs 1
+Width 0
+Item armor:steel_legs 1 30744
+EndInventoryList
+List armor_feet 1
+Width 0
+Item armor:steel_feet 1 30744
+EndInventoryList
+EndInventory

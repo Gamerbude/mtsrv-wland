@@ -1,0 +1,68 @@
+breath = 11
+hp = 20
+name = False_Chicken
+pitch = 14.5
+position = (-1233.59,235,1928)
+version = 1
+yaw = 88.2355
+PlayerArgsEnd
+List main 32
+Width 0
+Empty
+Empty
+Empty
+Item default:wood 2
+Item default:stick 4
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List hunger 1
+Width 0
+Item : 18
+EndInventoryList
+EndInventory

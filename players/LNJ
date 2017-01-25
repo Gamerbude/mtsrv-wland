@@ -1,0 +1,84 @@
+breath = 11
+hp = 20
+name = LNJ
+pitch = 14.71
+position = (-991.05,125,-1599.38)
+version = 1
+yaw = 14
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:sword_diamond 1 19560
+Item default:axe_steel 1 53756
+Item farming:hoe_stone 1 36064
+Item default:pick_diamond 1 19027
+Empty
+Item default:craft_guide
+Item food:hamburger 4
+Item default:torch 17
+Empty
+Item default:stick 29
+Empty
+Empty
+Item default:copper_lump 4
+Item default:mossycobble 15
+Empty
+Item default:coal_lump 21
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List hunger 1
+Width 0
+Item : 21
+EndInventoryList
+List armor_head 1
+Width 0
+Item armor:diamond_head 1 28392
+EndInventoryList
+List armor_chest 1
+Width 0
+Item armor:diamond_chest 1 25032
+EndInventoryList
+List armor_legs 1
+Width 0
+Item armor:diamond_legs 1 29904
+EndInventoryList
+List armor_feet 1
+Width 0
+Item armor:diamond_feet 1 29904
+EndInventoryList
+EndInventory

@@ -1,0 +1,68 @@
+breath = 11
+hp = 20
+name = Sillenoz
+pitch = 1.7
+position = (-1568.02,195,-1331.32)
+version = 1
+yaw = 47.5555
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:dead_tree 7
+Item default:dry_dirt
+Item creatures:rotten_flesh 2
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List hunger 1
+Width 0
+Item : 7
+EndInventoryList
+EndInventory

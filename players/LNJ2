@@ -1,0 +1,84 @@
+breath = 11
+yaw = 138
+pitch = 16.69
+version = 1
+name = LNJ2
+hp = 20
+position = (-710.36,-45,-1641.64)
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:pick_diamond 1 46693
+Item default:shovel_diamond 1 30952
+Item default:axe_diamond 1 8855
+Item farming:hoe_diamond 1 484
+Item default:screwdriver 1 25991
+Item farming:lettuce 25
+Item default:cobble 60
+Item default:coal_lump
+Item default:cobble 13
+Item default:stick
+Item pipeworks:tube_1 21
+Item caches:cache 7
+Item default:junglewood 915
+Item bucket:bucket_water
+Item default:stair_junglewood 56
+Item default:slab_junglewood 48
+Empty
+Empty
+Empty
+Empty
+Empty
+Item bucket:bucket_water
+Item default:junglewood 10
+Item default:slab_junglewood 10
+Empty
+Item default:shovel_stone 1 54600
+Item default:iron_lump 13
+Item default:coal_lump 60
+Item default:screwdriver 1 35532
+Item bucket:bucket_water
+Item default:screwdriver 1 21714 1
+Item default:pick_diamond
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List hunger 1
+Width 0
+Item : 21
+EndInventoryList
+List armor_head 1
+Width 0
+Empty
+EndInventoryList
+List armor_chest 1
+Width 0
+Empty
+EndInventoryList
+List armor_legs 1
+Width 0
+Empty
+EndInventoryList
+List armor_feet 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

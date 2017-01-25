@@ -1,0 +1,84 @@
+breath = 11
+hp = 20
+name = JBB_hat_PW_vg
+pitch = 74.89
+position = (-511.38,75,-1945.9)
+version = 1
+yaw = -221.44
+PlayerArgsEnd
+List main 32
+Width 0
+Item farming:cotton 12
+Item default:tree 6
+Empty
+Empty
+Item default:sapling 10
+Item default:wool_grey
+Item default:screwdriver 1 0 1
+Item default:pick_stone 1 19656
+Item bucket:bucket_empty
+Item default:wood
+Empty
+Item creatures:rotten_flesh
+Item default:pick_stone 1 58968
+Item farming:cotton_seed 10
+Item farming:potato 23
+Item farming:hoe_stone 1 736
+Item default:dry_dirt 13
+Item farming:wheat 90
+Item doors:door_wood 2
+Item bones:bones 6
+Item default:wood 8
+Item default:leaves
+Item bucket:bucket_water
+Item default:furnace
+Item default:snow 60
+Empty
+Empty
+Item farming:cotton 60
+Item default:shovel_stone 1 9920
+Item default:copper_ingot
+Empty
+Item default:stick 15
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List hunger 1
+Width 0
+Item : 20
+EndInventoryList
+List armor_head 1
+Width 0
+Empty
+EndInventoryList
+List armor_chest 1
+Width 0
+Empty
+EndInventoryList
+List armor_legs 1
+Width 0
+Empty
+EndInventoryList
+List armor_feet 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

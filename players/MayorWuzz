@@ -1,0 +1,84 @@
+breath = 11
+hp = 20
+name = MayorWuzz
+pitch = 55.3
+position = (-1447.68,205,-1224.75)
+version = 1
+yaw = -313.76
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:pick_stone 1 50213
+Item default:dirt 60
+Item farming:potato 11
+Item default:cobble 37
+Item default:stair_cobble
+Item default:bone 2
+Item default:cherry_tree 4
+Item creatures:chicken_flesh
+Item creatures:feather 2
+Item default:coal_lump
+Item creatures:flesh 2
+Item default:wool_brown 2
+Item default:dirt 60
+Item default:dirt 2
+Item default:birch_wood 10
+Item default:torch 2
+Item bones:bones
+Item farming:strawberry 42
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List hunger 1
+Width 0
+Item : 22
+EndInventoryList
+List armor_head 1
+Width 0
+Empty
+EndInventoryList
+List armor_chest 1
+Width 0
+Empty
+EndInventoryList
+List armor_legs 1
+Width 0
+Empty
+EndInventoryList
+List armor_feet 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

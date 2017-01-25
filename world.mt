@@ -1,0 +1,9 @@
+gameid = wasteland
+backend = sqlite3
+creative_mode = false
+enable_damage = true
+load_mod_chicken = false
+load_mod_creatures = false
+load_mod_ghost = false
+load_mod_sheep = false
+load_mod_zombie = false

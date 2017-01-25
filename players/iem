@@ -1,0 +1,68 @@
+breath = 11
+hp = 20
+name = iem
+pitch = 13.49
+position = (2479.54,235,5858.78)
+version = 1
+yaw = 3.43775
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:pick_stone 1 992
+Item default:sword_stone 1 10464
+Item default:shovel_stone 1 6448
+Empty
+Empty
+Empty
+Item farming:potato 37
+Item default:torch 26
+Item default:stick 27
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Item default:wood 37
+Item default:cobble
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Item default:tree 40
+Item default:dry_dirt 8
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Item default:cobble
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List hunger 1
+Width 0
+Item : 19
+EndInventoryList
+EndInventory

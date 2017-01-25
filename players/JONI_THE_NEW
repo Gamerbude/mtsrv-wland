@@ -1,0 +1,84 @@
+breath = 11
+yaw = 314.3
+pitch = 21.5
+version = 1
+name = JONI_THE_NEW
+hp = 20
+position = (1311.68,145,175.58)
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:torch 14
+Item default:shovel_steel 1 29804
+Item default:dirt 46
+Item default:pick_steel 1 57582
+Item default:cobble 60
+Item default:axe_steel 1 17472
+Item default:maple_sapling 14
+Item default:cobble 46
+Item default:apple 15
+Item farming:potato 18
+Item default:sand 22
+Item default:maple_wood 32
+Item default:steel_ingot 35
+Item flowers:viola
+Item farming:potato 60
+Item farming:potato 11
+Item flowers:rose 9
+Item farming:wheat_seed 5
+Item default:grass_1 5
+Item default:dirt 37
+Item default:stick 6
+Item default:fence_wood 6
+Item farming:potato 50
+Item default:dirt 60
+Item default:dirt 60
+Item default:axe_stone 1 34944
+Item flowers:dandelion_white
+Item flowers:dandelion_yellow
+Item flowers:geranium 2
+Item default:dirt 60
+Item default:dirt 60
+Item flowers:tulip
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List hunger 1
+Width 0
+Item : 23
+EndInventoryList
+List armor_head 1
+Width 0
+Empty
+EndInventoryList
+List armor_chest 1
+Width 0
+Empty
+EndInventoryList
+List armor_legs 1
+Width 0
+Empty
+EndInventoryList
+List armor_feet 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

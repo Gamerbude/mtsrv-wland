@@ -1,0 +1,68 @@
+breath = 11
+hp = 20
+name = IHateMC
+pitch = 7.7
+position = (-5736.63,-145,-822.38)
+version = 1
+yaw = 60.7335
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:dead_tree 4
+Item default:glass 3
+Item default:stick 2
+Item default:sword_wood
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List hunger 1
+Width 0
+Item : 18
+EndInventoryList
+EndInventory

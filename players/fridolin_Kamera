@@ -1,0 +1,68 @@
+breath = 11
+hp = 20
+name = fridolin_Kamera
+pitch = 9.29
+position = (-500.1,65,-1939.55)
+version = 1
+yaw = 48.1285
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:sword_wood 1 2184
+Item creatures:rotten_flesh
+Item default:wood 5
+Item default:cobble 2
+Item default:dead_tree 4
+Item default:dry_dirt 3
+Item default:sword_wood 1 65520
+Item default:torch
+Item default:iron_lump 3
+Empty
+Item default:stick 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List hunger 1
+Width 0
+Item : 19
+EndInventoryList
+EndInventory

@@ -1,0 +1,68 @@
+breath = 11
+hp = 20
+name = everamzah
+pitch = 36.2
+position = (-221.58,5,-1324.9)
+version = 1
+yaw = 20.0535
+PlayerArgsEnd
+List main 32
+Width 0
+Item creatures:rotten_flesh 2
+Item default:dry_dirt
+Empty
+Item default:stick 3
+Item default:wood
+Item default:sword_wood 1 24024
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List hunger 1
+Width 0
+Item : 19
+EndInventoryList
+EndInventory

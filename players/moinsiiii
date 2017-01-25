@@ -1,0 +1,84 @@
+breath = 11
+hp = 20
+name = moinsiiii
+pitch = 19.09
+position = (208,-125,-670.68)
+version = 1
+yaw = -166.97
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:sword_steel 1 12426
+Item default:pick_steel 1 63772
+Item default:axe_steel 1 39676
+Item default:screwdriver 1 37506
+Item default:slab_maple_wood 5
+Item default:dead_tree 13
+Item farming:potato 9
+Item default:maple_tree 6
+Item default:red_maple_leaves 12
+Item default:maple_wood 2
+Item default:wood 19
+Item default:birch_sapling
+Item default:shovel_steel 1 28794
+Item default:coal_lump 30
+Item default:stone 9
+Item default:acacia_wood 5
+Item default:dry_dirt 27
+Item default:hardened_clay
+Item default:leaves 37
+Item default:stonebrick 9
+Item default:torch
+Item default:furnace
+Item default:copper_lump
+Item default:red_maple_sapling
+Item bones:bones
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List hunger 1
+Width 0
+Item : 21
+EndInventoryList
+List armor_head 1
+Width 0
+Empty
+EndInventoryList
+List armor_chest 1
+Width 0
+Empty
+EndInventoryList
+List armor_legs 1
+Width 0
+Empty
+EndInventoryList
+List armor_feet 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

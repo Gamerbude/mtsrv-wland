@@ -1,0 +1,84 @@
+breath = 11
+hp = 14
+name = MBB
+pitch = -7.91
+position = (-474.05,55,-1615.6)
+version = 1
+yaw = -181.08
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:stair_cobble 3
+Item default:cherry_sapling
+Item default:glass 5
+Item default:pick_diamond 1 17004
+Item farming:lettuce 53
+Item default:sword_bronze 1 15262
+Item default:coal_lump 16
+Item default:maple_sapling
+Item default:pick_stone 1 16982
+Item default:sword_bronze 1 1090
+Item xpanes:bar 23
+Item default:sword_steel 1 1308
+Item bones:bones 8
+Item creatures:feather 2
+Item default:fence_wood 5
+Item farming:cotton 26
+Item farming:wheat 10
+Item bucket:bucket_empty
+Item default:ladder 60
+Item farming:wheat_seed 3
+Item default:sapling 60
+Item default:craft_guide
+Item default:axe_steel 1 7488
+Item farming:hoe_stone
+Item default:torch 50
+Item default:maple_wood 7
+Item default:diamond 5
+Item default:junglesapling 5
+Item default:sword_stone 1 1308
+Item default:bronze_ingot 9
+Item default:iron_lump 46
+Item default:cobble 25
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Item default:wood 23
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Item default:stick 4
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List hunger 1
+Width 0
+Item : 20
+EndInventoryList
+List armor_head 1
+Width 0
+Item armor:steel_head 1 24192
+EndInventoryList
+List armor_chest 1
+Width 0
+Item armor:steel_chest 1 34272
+EndInventoryList
+List armor_legs 1
+Width 0
+Empty
+EndInventoryList
+List armor_feet 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

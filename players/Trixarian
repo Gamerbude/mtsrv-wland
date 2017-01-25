@@ -1,0 +1,68 @@
+breath = 11
+hp = 19
+name = Trixarian
+pitch = 17.08
+position = (6732,-5,-1702)
+version = 1
+yaw = 41.8259
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:sword_wood
+Item default:sand 4
+Item default:hardened_clay
+Item default:stick 2
+Item default:dry_dirt 14
+Empty
+Item default:glass
+Item default:wood 10
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List hunger 1
+Width 0
+Item : 9
+EndInventoryList
+EndInventory

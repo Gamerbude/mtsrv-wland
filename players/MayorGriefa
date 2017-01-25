@@ -1,0 +1,84 @@
+breath = 11
+hp = 4
+name = MayorGriefa
+pitch = 56.69
+position = (-1178.07,5,-2125.09)
+version = 1
+yaw = -266.19
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:sword_steel 1 2664
+Item default:pick_stone 1 64013
+Item farming:strawberry 40
+Item default:glass 46
+Empty
+Item farming:lettuce 60
+Item default:cobble 56
+Item creatures:chicken_flesh 2
+Item default:leaves 60
+Item default:cobble 60
+Item default:steel_ingot 2
+Item bones:bones 4
+Item default:stick 5
+Item default:cobble 26
+Item food:roll 21
+Item default:wood 8
+Item default:stonebrick 2
+Item default:bone
+Item xpanes:pane 8
+Item default:sandstonebrick 2
+Item default:sign_wall_wood
+Item default:sand 3
+Item mesecons:wire_00000000_off
+Item default:leaves
+Item flowers:dandelion_white
+Item default:grass_1 3
+Item farming:lettuce 24
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List hunger 1
+Width 0
+Item : 22
+EndInventoryList
+List armor_head 1
+Width 0
+Empty
+EndInventoryList
+List armor_chest 1
+Width 0
+Empty
+EndInventoryList
+List armor_legs 1
+Width 0
+Empty
+EndInventoryList
+List armor_feet 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

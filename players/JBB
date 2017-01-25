@@ -1,0 +1,84 @@
+breath = 11
+hp = 20
+name = JBB
+pitch = 44.19
+position = (-688,-75,-1632)
+version = 1
+yaw = -177.6
+PlayerArgsEnd
+List main 32
+Width 0
+Item farming:wheat 45
+Item farming:cotton_seed 23
+Item default:pick_stone 1 53372
+Item farming:hoe_steel 1 7567
+Item default:cobble 44
+Item farming:hoe_stone 1 1472
+Item farming:strawberry 16
+Item farming:cotton 39
+Item farming:wheat_seed 50
+Item default:iron_lump 60
+Item default:pick_steel 1 7260
+Item default:cherry_sapling 12
+Item default:screwdriver 1 25991
+Empty
+Item default:papyrus 48
+Item default:sapling 18
+Item default:papyrus 60
+Item default:stair_wood 4
+Item default:stick 38
+Item bones:bones 6
+Item default:bone 3
+Item default:coal_lump 12
+Item default:slab_cherry_wood 30
+Item default:slab_wood 6
+Item default:wool_grey 2
+Item default:wool_white 2
+Item default:wood 7
+Item default:sand
+Item default:fence_wood
+Item default:copper_lump 39
+Item creatures:chicken_flesh 3
+Item creatures:feather 3
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Item bucket:bucket_empty
+Item default:sword_stone 1 8528
+Item default:cobble 9
+Item farming:lettuce 60
+Item default:papyrus 60
+Item farming:lettuce 60
+Item default:dirt
+Item farming:strawberry 60
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List hunger 1
+Width 0
+Item : 26
+EndInventoryList
+List armor_head 1
+Width 0
+Empty
+EndInventoryList
+List armor_chest 1
+Width 0
+Empty
+EndInventoryList
+List armor_legs 1
+Width 0
+Empty
+EndInventoryList
+List armor_feet 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

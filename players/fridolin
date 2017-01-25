@@ -1,0 +1,84 @@
+breath = 11
+hp = 18
+name = fridolin
+pitch = 14.09
+position = (-711.98,105,-1772.98)
+version = 1
+yaw = -91.99
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:pick_steel 1 38522
+Item default:stair_wood 2
+Item default:sword_steel 1 60622
+Item default:shovel_stone 1 2184
+Item default:craft_guide
+Item farming:potato 38
+Item default:screwdriver 1 6905 4
+Empty
+Item creatures:flesh 3
+Empty
+Item default:sword_diamond 1 3852
+Item default:bone 3
+Item bones:bones 2
+Item default:tree 48
+Item farming:wheat 60
+Item default:wool_grey 2
+Item default:red_maple_sapling 3
+Item default:pick_stone 1 40029
+Empty
+Item doors:trapdoor 2
+Empty
+Item default:glass 2
+Item creatures:chicken_flesh
+Item default:wool_black
+Empty
+Empty
+Empty
+Item default:wood 6
+Item default:wood 5
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List hunger 1
+Width 0
+Item : 14
+EndInventoryList
+List armor_head 1
+Width 0
+Item armor:steel_head 1 51912
+EndInventoryList
+List armor_chest 1
+Width 0
+Item armor:steel_chest 1 51912
+EndInventoryList
+List armor_legs 1
+Width 0
+Item armor:steel_legs 1 51912
+EndInventoryList
+List armor_feet 1
+Width 0
+Item armor:steel_feet 1 51912
+EndInventoryList
+EndInventory
