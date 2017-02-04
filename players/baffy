@@ -1,44 +1,48 @@
 breath = 11
-yaw = -353.38
-pitch = 42.7
+yaw = 166
+pitch = 5.9
 version = 1
-name = LNJ
+name = baffy
 hp = 20
-position = (-1124.97,125,-1621.14)
+position = (-430,15,-430)
 PlayerArgsEnd
 List main 32
 Width 0
-Item default:sword_diamond 1 50555
-Item default:pick_diamond 1 48230
-Item default:axe_diamond 1 54579
-Item default:shovel_steel 1 46592
-Empty
-Empty
-Item default:craft_guide
-Item default:torch 51
 Empty
 Empty
 Empty
 Empty
 Empty
 Empty
-Item default:stick 31
-Item default:screwdriver 1 658
 Empty
 Empty
 Empty
 Empty
 Empty
 Empty
-Item default:maple_wood 36
-Item food:roll 17
 Empty
 Empty
 Empty
 Empty
 Empty
 Empty
-Item bones:bones
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List hand 1
+Width 0
 Empty
 EndInventoryList
 List craft 9
@@ -63,22 +67,22 @@ Empty
 EndInventoryList
 List hunger 1
 Width 0
-Item : 18
+Item : 21
 EndInventoryList
 List armor_head 1
 Width 0
-Item armor:diamond_head 1 35112
+Empty
 EndInventoryList
 List armor_chest 1
 Width 0
-Item armor:diamond_chest 1 31752
+Empty
 EndInventoryList
 List armor_legs 1
 Width 0
-Item armor:diamond_legs 1 36624
+Empty
 EndInventoryList
 List armor_feet 1
 Width 0
-Item armor:diamond_feet 1 36624
+Empty
 EndInventoryList
 EndInventory

@@ -1,7 +1,7 @@
-day_count = 21042
-lbm_introduction_times = :stairs:slab_brickupside_down_replace~15270628;:stairs:slab_cobbleupside_down_replace~15270628;:stairs:slab_desert_stoneupside_down_replace~15270628;:stairs:slab_junglewoodupside_down_replace~15270628;:stairs:slab_stonebrickupside_down_replace~15270628;:stairs:slab_stoneupside_down_replace~15270628;:stairs:slab_woodupside_down_replace~15270628;:stairs:stair_brickupside_down_replace~15270628;:stairs:stair_cobbleupside_down_replace~15270628;:stairs:stair_desert_stoneupside_down_replace~15270628;:stairs:stair_junglewoodupside_down_replace~15270628;:stairs:stair_stonebrickupside_down_replace~15270628;:stairs:stair_stoneupside_down_replace~15270628;:stairs:stair_woodupside_down_replace~15270628;
-game_time = 32718192
-time_of_day = 6296
+day_count = 25997
+lbm_introduction_times = :stairs:slab_brickupside_down_replace~15270628;:stairs:slab_cobbleupside_down_replace~15270628;:stairs:slab_desert_stoneupside_down_replace~15270628;:stairs:slab_junglewoodupside_down_replace~15270628;:stairs:slab_stonebrickupside_down_replace~15270628;:stairs:slab_stoneupside_down_replace~15270628;:stairs:slab_woodupside_down_replace~15270628;:stairs:stair_brickupside_down_replace~15270628;:stairs:stair_cobbleupside_down_replace~15270628;:stairs:stair_desert_stoneupside_down_replace~15270628;:stairs:stair_junglewoodupside_down_replace~15270628;:stairs:stair_stonebrickupside_down_replace~15270628;:stairs:stair_stoneupside_down_replace~15270628;:stairs:stair_woodupside_down_replace~15270628;pipeworks:rotate_valves_flowsensors~37901934;
+game_time = 38663966
+time_of_day = 15267
 lbm_introduction_times_version = 1
 last_clear_objects_time = 0
 EnvArgsEnd

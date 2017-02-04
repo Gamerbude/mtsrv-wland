@@ -7,3 +7,6 @@ core.register_craft({
 })
 
 
+core.register_alias("caches:cache", "drawers:wood")
+
+
